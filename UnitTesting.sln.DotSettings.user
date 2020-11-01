@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2b5a3f5f_002D8c9b_002D4691_002D8412_002D6020f3804fda/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetEmployeeById_ShouldReturnRecord" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::14945840-A759-4C69-8BE9-2E7A763EFF09::.NETCoreApp,Version=v3.1::Service.Tests.Services.Employee.EmployeeServiceTests.GetEmployeeById_ShouldReturnRecord&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::14945840-A759-4C69-8BE9-2E7A763EFF09::.NETCoreApp,Version=v3.1::Service.Tests.Services.Employee.EmployeeServiceTests.GetEmployeeById_ShouldReturnNull&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
